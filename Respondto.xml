@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 28 15:07:47 2022
+
+@author: user670
+"""
+
+#2. Respond to [hello]
+'''
+<?xml version="1.0" encoding="UTF-8"?>
+<hello
+xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
+  <capabilities>
+<capability>urn:ietf:params:netconf:base:1.0</capability>
+</capabilities></hello> ]]>]]>
+'''
